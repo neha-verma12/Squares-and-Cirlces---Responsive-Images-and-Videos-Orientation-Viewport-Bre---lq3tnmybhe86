@@ -7,8 +7,9 @@
   grid-template-rows: repeat(3, 1fr);
 }
 .inner-square {
-    background-color: green;
-    margin: 10px;
+  background-color: green;
+  margin: 10px;
+  justify-content:space-evenly;
 }
 .circle {
     background-color: blue;
